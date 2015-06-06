@@ -1,0 +1,16 @@
+---
+driver:
+  name: docker
+
+provisioner:
+  name: chef_solo
+
+platforms:
+  - name: ubuntu
+  - name: centos
+
+suites:
+  - name: default
+    run_list:
+      - recipe[package-tar]
+    attributes:

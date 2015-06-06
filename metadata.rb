@@ -1,0 +1,7 @@
+name             'package-tar'
+maintainer       'Rudolph Miller'
+maintainer_email 'chopsticks.tk.ppfm@gmail.com'
+license          'MIT'
+description      'Installs/Configures package-tar'
+long_description 'Installs/Configures package-tar'
+version          '0.1.0'
