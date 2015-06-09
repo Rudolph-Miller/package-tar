@@ -1,5 +1,5 @@
 # package-tar-cookbook
-[![Build Status](https://circleci.com/gh/Rudolph-Miller/package-tar.svg?style=shield)](https://circleci.com/Rudolph-Miller/package-tar)
+[![Build Status](https://circleci.com/gh/Rudolph-Miller/package-tar.svg?style=shield)](https://circleci.com/gh/Rudolph-Miller/package-tar)
 
 TODO: Enter the cookbook description here.
 
